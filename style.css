@@ -1,0 +1,17 @@
+body{
+    // <uniquifier>: Use a unique and descriptive class name
+// <width>: Use a value from 75 to 100
+
+.open-sans-<uniquifier> {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" <width>;
+}
+/* styel */
+}
+#nav {
+    display: flex;
+}
