@@ -2,6 +2,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items:center ;
+    margin: 0 200px;
 }
  
  body{
@@ -49,3 +50,19 @@ nav a{
     padding: 15px 35px;
     
 }
+/* Hedar stlel */
+.header{
+    background-color: #fff8f3;
+}
+.banner{
+    padding: 30px 30px 30px 150px ;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.banner .js {
+    width: 400px;
+}
+
+
+
