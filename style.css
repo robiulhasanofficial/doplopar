@@ -63,6 +63,31 @@ nav a{
 .banner .js {
     width: 400px;
 }
+.banner .bw {
+    font-size:45px ;
+}
+.banner .bt {
+    font-size: 60px;
+}
+/* main */
 
+.about{ 
+    padding: 130px; 
+    border-radius: 10px;
+    background-color: #fff8f3;
+    margin: 130px;
+}
+.dt{
+    color: #181818
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700px;
+}
+.dd { 
+    color: 
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700px;
 
+}
 
