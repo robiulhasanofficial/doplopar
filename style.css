@@ -1,4 +1,10 @@
-body{
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items:center ;
+}
+ 
+ body{
     // <uniquifier>: Use a unique and descriptive class name
 // <width>: Use a value from 75 to 100
 
@@ -10,8 +16,36 @@ body{
   font-variation-settings:
     "wdth" <width>;
 }
-/* styel */
+ }
+.jc{ 
+    color: #fd6e0a;
 }
-#nav {
+
+.nav-title{
+    color: #181818;
+    font-size: 45px;
+    font-weight: 800
+    ;
+}
+nav>ul{
     display: flex;
+    align-items: center;
+}
+nav li { 
+    list-style: none;
+    margin-right: 50px;
+}
+nav a{
+    color: #474747;
+}
+
+.bp{
+    border-radius: 5px;
+    background-color: #fd6e0a;
+    border: 0;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 15px 35px;
+    
 }
