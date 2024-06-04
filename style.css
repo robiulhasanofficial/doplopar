@@ -140,7 +140,7 @@ nav a{
 .Rc{
     display: flex;
     justify-content: space-between;
-    
+    padding: 130px 230px;
 }
 
 .md{
@@ -160,3 +160,28 @@ margin: 10p 10px 10px 10px;
     text-align: center;
     margin-top: 50px;
 }
+footer{
+    display: flex;
+    justify-content: space-between;
+    background-color:#fff8f3 ;
+    padding: 130px 230px;
+    margin-top: 100px;
+}
+.cct input[type="text"],.cct input[type="Email"],
+textarea{
+    display: block;
+    margin-bottom: 25px;
+    padding: 18px 35px;
+    color: #757575;
+    border-radius: 5px;
+    background-color: #fff;
+    border: 0;
+    width: 100%;
+}
+.JHR{
+    color:orange;
+    font-size: 30px;
+    font-weight: 30px;
+    
+}
+
