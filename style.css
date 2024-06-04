@@ -90,4 +90,15 @@ nav a{
     font-weight: 700px;
 
 }
+.ap{
+    display: flex;
+    justify-content: space-around;
+}
+.ai{
+    text-align: center;
+}
+/* deta hade */
+.ht{
+    text-align: center;
+}
 
