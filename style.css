@@ -137,4 +137,26 @@ nav a{
     font-size: 30px;
     font-weight: 700px;
 }
+.Rc{
+    display: flex;
+    justify-content: space-between;
+    
+}
 
+.md{
+text-align: center;
+margin: 10p 10px 10px 10px;
+}
+.tr{
+    color: #fd6e0a;
+}
+.sn{
+    color:firebrick;
+}
+.sf{
+    color: forestgreen;
+}
+.Download{
+    text-align: center;
+    margin-top: 50px;
+}
